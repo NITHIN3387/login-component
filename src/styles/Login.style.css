@@ -1,0 +1,19 @@
+.login-container{
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.heading{
+    margin-bottom: 30px;
+}
+
+.inputs{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 1fr 2fr;
+    width: fit-content;
+    margin: 20px 0;
+}
